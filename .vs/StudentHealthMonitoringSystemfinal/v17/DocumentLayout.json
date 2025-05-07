@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentSystem.csproj|c:\\users\\katri\\downloads\\studentsystem\\studentsystem\\studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentSystem.csproj|solutionrelative:studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentSystem.csproj|c:\\users\\katri\\downloads\\studentsystem\\studentsystem\\studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentSystem.csproj|solutionrelative:studentinformationsystemfinal\\dmcmedical-homepage2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\nurse-homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\nurse-homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\patientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\patientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\patientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\patientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\addpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\dmc medical clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\dmc medical clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\ccma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\ccma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\studentinformationsystemfinal\\form.cs\\dmcmedicalclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714EE9B1-AF6C-4C49-9187-99A2CE7C30A5}|StudentInformationSystemfinal\\StudentHealthMonitoringSystemfinal.csproj|solutionrelative:studentinformationsystemfinal\\form.cs\\dmcmedicalclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DMCMEDICAL-Homepage2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs [Design]",
+              "RelativeToolTip": "StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:49:40.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DMCMEDICAL-Homepage2.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAMwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:47:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOGINForm.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:25:41.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nurse-Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\Nurse-Homepage.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\Nurse-Homepage.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\Nurse-Homepage.cs [Design]",
+              "RelativeToolTip": "..\\..\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\Nurse-Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:15:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DMCMEDICAL-Homepage2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs [Design]",
+              "RelativeToolTip": "..\\..\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\DMCMEDICAL-Homepage2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:53:35.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LOGINForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:16:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Models\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Models\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Models\\UserCredentials.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Models\\UserCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:51:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientObject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\PatientObject.cs [Design]",
+              "RelativeToolTip": "..\\..\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\PatientObject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:52:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LOGINForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\LOGINForm.Designer.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\LOGINForm.Designer.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Form.cs\\LOGINForm.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAswPgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:16:38.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Program.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Program.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Program.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:13:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ADDPATIENT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "ToolTip": "C:\\Users\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:16:02.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientObject.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Form.cs\\PatientObject.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:27:25.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Models\\Patient.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:51:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ADDPATIENT.cs",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "ToolTip": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "RelativeToolTip": "StudentInformationSystemfinal\\Form.cs\\ADDPATIENT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:00:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DMC MEDICAL CLINIC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\DMC MEDICAL CLINIC.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\DMC MEDICAL CLINIC.cs",
+              "ToolTip": "C:\\Users\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\DMC MEDICAL CLINIC.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\DMC MEDICAL CLINIC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:10:38.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CCMA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\CCMA.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\CCMA.cs",
+              "ToolTip": "C:\\Users\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\CCMA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\CCMA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:26:45.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\User.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\User.cs",
+              "ToolTip": "C:\\Users\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\User.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:10:59.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DMCMEDICALCLINIC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\katri\\Downloads\\StudentSystem\\StudentSystem\\StudentInformationSystemfinal\\Form.cs\\DMCMEDICALCLINIC.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystemfinal\\Form.cs\\DMCMEDICALCLINIC.cs",
+              "ToolTip": "C:\\Users\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\DMCMEDICALCLINIC.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nen\\OneDrive\\Desktop\\StudentInformationSystemfinal\\StudentInformationSystemfinal\\Form.cs\\DMCMEDICALCLINIC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:46:14.307Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
