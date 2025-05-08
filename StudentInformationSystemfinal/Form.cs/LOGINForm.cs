@@ -174,6 +174,16 @@ namespace StudentInformationSystemfinal
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbeUserTypes_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

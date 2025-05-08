@@ -8,8 +8,8 @@ namespace StudentInformationSystemfinal.Models
 {
     public class UserCredentials
     {
-        private string _username = "DMC";
-        private string _password = "Clinic";
+        private string _username = "1";
+        private string _password = "1";
         public string Username { get { return _username; } private set { _username = value; } }
         public string Password { get { return _password; } private set { _password = value; } }
     }

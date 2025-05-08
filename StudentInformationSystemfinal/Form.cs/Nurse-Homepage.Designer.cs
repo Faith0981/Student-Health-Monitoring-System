@@ -111,7 +111,7 @@
             this.ADDPATIENT.AppearancePressed.Options.UseBackColor = true;
             this.ADDPATIENT.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("ADDPATIENT.ImageOptions.SvgImage")));
             this.ADDPATIENT.Location = new System.Drawing.Point(0, 2);
-            this.ADDPATIENT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ADDPATIENT.Margin = new System.Windows.Forms.Padding(2);
             this.ADDPATIENT.Name = "ADDPATIENT";
             this.ADDPATIENT.PaintStyle = DevExpress.XtraEditors.Controls.PaintStyles.Light;
             this.ADDPATIENT.Size = new System.Drawing.Size(340, 173);
@@ -139,7 +139,7 @@
             this.CCMA.AppearancePressed.Options.UseBackColor = true;
             this.CCMA.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("CCMA.ImageOptions.SvgImage")));
             this.CCMA.Location = new System.Drawing.Point(2, 10);
-            this.CCMA.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.CCMA.Margin = new System.Windows.Forms.Padding(2);
             this.CCMA.Name = "CCMA";
             this.CCMA.PaintStyle = DevExpress.XtraEditors.Controls.PaintStyles.Light;
             this.CCMA.Size = new System.Drawing.Size(350, 163);
@@ -167,7 +167,7 @@
             this.simpleButton1.AppearancePressed.Options.UseBackColor = true;
             this.simpleButton1.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
             this.simpleButton1.Location = new System.Drawing.Point(2, 0);
-            this.simpleButton1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.simpleButton1.Margin = new System.Windows.Forms.Padding(2);
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.PaintStyle = DevExpress.XtraEditors.Controls.PaintStyles.Light;
             this.simpleButton1.Size = new System.Drawing.Size(341, 178);
@@ -176,6 +176,8 @@
             // 
             // Nurse_Homepage
             // 
+            this.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(244)))), ((int)(((byte)(244)))));
+            this.Appearance.Options.UseBackColor = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1365, 678);
@@ -183,9 +185,10 @@
             this.Controls.Add(this.panelControl2);
             this.Controls.Add(this.TOTALPATIENTSPANEL);
             this.Controls.Add(this.panelControl1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.IconOptions.Image = ((System.Drawing.Image)(resources.GetObject("Nurse_Homepage.IconOptions.Image")));
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Nurse_Homepage";
-            this.Text = "Nurse_Homepage";
+            this.Text = "Nurse Homepage";
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).EndInit();
             this.panelControl1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.ADDNEWPATIENPANEL)).EndInit();
